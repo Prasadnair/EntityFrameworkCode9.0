@@ -1,0 +1,6 @@
+@DotNET9EntityFramework_HostAddress = http://localhost:5031
+
+GET {{DotNET9EntityFramework_HostAddress}}/employee/
+Accept: application/json
+
+###
